@@ -1,10 +1,10 @@
+
 {
   "appId": "com.aistudio.novaai.rnvaq",
   "version": "1.0.1",
   "versionCode": 2,
-  "apk_url": "https://github.com/ashwinikumar28092007/Novaai-Release/releases/download/v1.0.1/nova.apk",
-  "sha256": "YAHAN_ASLI_SHA256_HASH",
+  "apk_url": "APNI_GITHUB_RELEASE_APK_DOWNLOAD_URL",
+  "sha256": "89cd1ba769b14261d291dcc14818b82a0d8bf0a611a66763b2e3dd8ed8e51cfe",
   "release_notes": "NOVA AI v1.0.1 update",
   "mandatory": false
 }
-
